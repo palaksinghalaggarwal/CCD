@@ -44,20 +44,21 @@ This website design project is for a restaurant and cafe that emphasizes locally
 
 ![Delivery Service](./screenshots/services.png)
 
-### Delivery Services
+### Our App
 
-![Delivery Service](./screenshots/our_app.png)
+![Our App](./screenshots/our_app.png)
 
 ## Setup
 
-1. Clone the repository:
+1. **Clone the repository:**
+
    ```bash
    git clone https://github.com/palaksinghalaggarwal/restaurant-cafe-website.git
 
-2. Navigate to the project directory:
+2. **Navigate to the project directory:**
    cd restaurant-cafe-website
 
-3. Open the index.html file in your browser to view the website.
+3. **Open the index.html file in your browser to view the website.**
 
 ## Usage
 
