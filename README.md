@@ -56,6 +56,8 @@ This website design project is for a restaurant and cafe that emphasizes locally
    git clone https://github.com/palaksinghalaggarwal/restaurant-cafe-website.git
 
 2. **Navigate to the project directory:**
+
+   ```bash
    cd restaurant-cafe-website
 
 3. **Open the index.html file in your browser to view the website.**
