@@ -38,7 +38,7 @@ This website design project is for a restaurant and cafe that emphasizes locally
 
 ### Features
 
-![Menu](./screenshots/features.png)
+![Features](./screenshots/features.png)
 
 ### Delivery Services
 
