@@ -1,4 +1,4 @@
-# Restaurant and Cafe Website
+# CCD - A Restaurant and Cafe Website
 
 Welcome to the Restaurant and Cafe Website project! This project showcases a modern and responsive website design using HTML, CSS, JavaScript, and Bootstrap5, featuring sections for locally crafted food services and free delivery options.
 
@@ -53,12 +53,12 @@ This website design project is for a restaurant and cafe that emphasizes locally
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/palaksinghalaggarwal/restaurant-cafe-website.git
+   git clone https://github.com/palaksinghalaggarwal/CCD.git
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd restaurant-cafe-website
+   cd CCD
 
 3. **Open the index.html file in your browser to view the website.**
 
